@@ -1,0 +1,101 @@
+product_id,product_name,category,price,quantity_sold,rating,review_count
+1,Biography,Books,247.59,53,2.2,650
+2,Biography,Books,480.25,41,1.4,73
+3,Comics,Books,667.92,394,1.5,675
+4,Tablet,Electronics,449.01,79,4.5,414
+5,Tablet,Electronics,600.21,157,2.5,16
+6,Biography,Books,810.3,112,4.2,653
+7,Non-Fiction,Books,980.84,449,2.7,59
+8,Action Figure,Toys,104.85,314,2.6,932
+9,T-shirt,Clothing,609.26,139,2.5,706
+10,Non-Fiction,Books,75.68,429,2.2,922
+11,Doll,Toys,183.4,193,2.6,900
+12,Non-Fiction,Books,828.12,336,4.9,758
+13,Refrigerator,Home Appliances,842.05,33,3.2,948
+14,Biography,Books,536.87,176,3.5,322
+15,Biography,Books,15.51,83,1.0,401
+16,Shirt,Clothing,305.45,106,2.7,52
+17,Doll,Toys,75.87,411,2.6,449
+18,Fiction,Books,270.81,132,2.9,674
+19,T-shirt,Clothing,240.52,467,3.5,884
+20,Board Game,Toys,426.13,367,3.7,831
+21,Laptop,Electronics,807.67,120,4.9,544
+22,Refrigerator,Home Appliances,134.26,93,2.2,866
+23,Smartwatch,Electronics,445.61,135,4.4,82
+24,Shirt,Clothing,218.28,318,4.7,276
+25,Blender,Home Appliances,893.81,287,1.9,568
+26,Biography,Books,611.04,117,3.2,950
+27,Headphones,Electronics,785.64,178,3.7,997
+28,Jeans,Clothing,927.18,327,1.2,701
+29,Microwave,Home Appliances,975.72,125,2.2,765
+30,Board Game,Toys,438.59,128,3.7,181
+31,Jacket,Clothing,119.55,458,4.1,941
+32,Toaster,Home Appliances,351.22,341,4.6,98
+33,Headphones,Electronics,638.39,266,3.3,345
+34,Doll,Toys,189.62,219,1.7,50
+35,Blender,Home Appliances,741.79,383,4.3,80
+36,Board Game,Toys,954.15,262,2.3,900
+37,Action Figure,Toys,958.81,345,1.1,880
+38,Doll,Toys,300.46,14,3.7,684
+39,Tablet,Electronics,453.78,490,4.3,810
+40,Jeans,Clothing,443.99,38,5.0,260
+41,Puzzle,Toys,25.94,297,3.3,502
+42,Dress,Clothing,163.02,41,3.5,617
+43,Tablet,Electronics,751.52,285,1.9,99
+44,Refrigerator,Home Appliances,621.93,425,3.0,418
+45,Phone,Electronics,685.26,133,3.2,455
+46,Action Figure,Toys,133.91,233,3.9,886
+47,Biography,Books,712.3,304,2.0,633
+48,Blender,Home Appliances,724.92,482,2.6,910
+49,Non-Fiction,Books,264.0,472,2.5,309
+50,Shirt,Clothing,638.36,9,1.5,433
+51,Dress,Clothing,497.57,306,1.6,759
+52,Mystery,Books,71.72,449,3.4,282
+53,Non-Fiction,Books,953.11,197,1.8,982
+54,Shirt,Clothing,891.17,42,2.4,947
+55,Dress,Clothing,77.44,385,1.5,453
+56,Doll,Toys,306.93,51,1.7,571
+57,Toaster,Home Appliances,104.75,204,4.4,406
+58,Jeans,Clothing,527.06,481,4.1,790
+59,Phone,Electronics,221.09,115,3.9,917
+60,Jacket,Clothing,480.37,452,3.7,433
+61,Puzzle,Toys,62.44,334,3.6,255
+62,Action Figure,Toys,778.49,4,1.4,500
+63,Headphones,Electronics,544.18,471,2.1,651
+64,T-shirt,Clothing,653.15,448,4.5,291
+65,Toaster,Home Appliances,86.66,397,4.1,360
+66,Doll,Toys,15.73,311,3.9,926
+67,Headphones,Electronics,866.29,471,4.2,632
+68,Tablet,Electronics,672.85,293,2.3,875
+69,Fiction,Books,361.37,14,2.6,484
+70,Biography,Books,906.28,260,2.1,312
+71,Laptop,Electronics,684.73,127,4.6,451
+72,Comics,Books,432.69,366,1.9,731
+73,Fiction,Books,217.28,344,4.1,817
+74,T-shirt,Clothing,163.03,104,1.1,424
+75,Non-Fiction,Books,422.54,220,1.6,305
+76,Microwave,Home Appliances,413.81,27,3.2,882
+77,Puzzle,Toys,672.62,345,3.1,89
+78,Laptop,Electronics,19.31,125,3.9,918
+79,T-shirt,Clothing,771.39,5,2.4,595
+80,Phone,Electronics,901.67,360,2.0,38
+81,Non-Fiction,Books,821.49,274,2.2,751
+82,T-shirt,Clothing,674.04,239,4.9,257
+83,Non-Fiction,Books,443.04,234,1.9,98
+84,Washing Machine,Home Appliances,252.55,342,1.6,764
+85,Puzzle,Toys,756.19,29,4.5,689
+86,Washing Machine,Home Appliances,544.35,17,2.1,445
+87,Shirt,Clothing,883.12,369,4.4,746
+88,Jeans,Clothing,970.51,438,1.3,437
+89,Headphones,Electronics,623.98,344,3.4,208
+90,Phone,Electronics,533.62,438,4.2,9
+91,Smartwatch,Electronics,674.86,109,1.2,828
+92,Tablet,Electronics,15.21,440,3.3,600
+93,Puzzle,Toys,673.43,191,2.9,728
+94,Puzzle,Toys,977.62,294,3.1,600
+95,RC Car,Toys,306.4,460,3.5,744
+96,Blender,Home Appliances,275.75,299,3.1,826
+97,Jacket,Clothing,828.46,255,1.3,313
+98,Jacket,Clothing,393.49,5,3.0,809
+99,Blender,Home Appliances,564.37,26,3.3,239
+100,Biography,Books,845.44,87,1.4,816
