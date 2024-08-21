@@ -1,4 +1,3 @@
-```sql
 WITH TopCategories AS (
     SELECT 
         p.category AS category_name,
@@ -17,7 +16,7 @@ WITH TopCategories AS (
         p.category
     ORDER BY 
         total_spent DESC
-    LIMIT 5  -- Use LIMIT instead of TOP for databases like PostgreSQL or MySQL
+    LIMIT 5
 ),
 CustomerSpending AS (
     SELECT
@@ -67,4 +66,3 @@ GROUP BY
 ORDER BY 
     total_spent DESC
 LIMIT 5;
-```
